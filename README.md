@@ -39,4 +39,4 @@ Stage 3 is a step where we tested our data train to machine learning model and e
 
 ## **NOTE**
 - It's an ongoing project, so there will be more update on each stage and stage 4 in future
-- We presented result of each stage progress in Bahasa
+- We presented the result of each stage progress in Bahasa
