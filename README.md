@@ -39,7 +39,7 @@ Stage 3 is a step where we tested our data train to machine learning model and e
 - Evaluation most impacful/influence to model output using shap library
 
 ## Stage 4 - Final Presentation Material
+Based on our project's result, out best model is CatBoost with accuracy score 77% and precision score 77%. Our model performance could increase coupon acceptance rate and B/C ratio by 0.61x (from 1.7x to 2.31x).
 
 ## **NOTE**
-- It's an ongoing project, so there will be more update on each stage and stage 4 in future
 - We presented the result of each stage progress in Bahasa
